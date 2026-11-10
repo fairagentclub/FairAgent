@@ -1,2 +1,2 @@
 # FairAgent
-FairAgent NFT On BNB Binance Smart Chain
+FairAgent NFT On BNB Smart Chain
